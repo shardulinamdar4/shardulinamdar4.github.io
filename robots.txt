@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shardulinamdar4.github.io/sitemap.xml
+Host: https://shardulinamdar4.github.io
