@@ -254,7 +254,6 @@ const Featured = () => {
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
-                  <p className="project-overline">Featured Project</p>
                   <h3 className="project-title">{title}</h3>
                   <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
 

@@ -13,7 +13,7 @@ const IconLoader = () => (
           fontFamily="Roboto-Medium, Roboto"
           fontWeight="500">
           <tspan x="0" y="0">
-            A
+            S
           </tspan>
         </text>
       </g>
